@@ -25,7 +25,7 @@ Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and et
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zixun' => 'chenyl.exe@gmail.com' }
-  s.source           = { :git => 'https://github.com/zixun/GodEye.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/hstdt/GodEye.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/zixun_'
 
   s.ios.deployment_target = '8.0'
