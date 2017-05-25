@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GodEye'
-  s.version          = '1.2.0'
+  s.version          = '1.0.0'
   s.summary          = 'Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and et
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zixun' => 'chenyl.exe@gmail.com' }
-  s.source           = { :git => 'https://github.com/hstdt/GodEye.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/cosmos180/GodEye.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/zixun_'
 
   s.ios.deployment_target = '8.0'
